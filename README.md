@@ -640,20 +640,16 @@ This tool is for **educational and informational purposes** only. It is not a re
 
 ## 👤 Author
 
-**Your Name**  
-GitHub: [https://github.com/yourusername](https://github.com/yourusername)  
-LinkedIn: [https://linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-Email: your.email@example.com
+**Kaisar Hossain**  
+GitHub: [https://kaisarhossain.github.io/portfolio/]
+LinkedIn: [https://www.linkedin.com/in/kaisarhossain/]
+Email: kaisar.hossain@gmail.com
 
 ------------------------------------------------------------------------
 
 ## 📞 Support
 
 For issues or questions:
--   Open an issue on GitHub
--   Contact: support@yourdomain.com
--   Documentation: [link to wiki]
+-   Contact: hossainbhuyan@cua.edu
 
 ------------------------------------------------------------------------
-
-**Made with ❤️ for students and universities**
