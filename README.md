@@ -16,7 +16,7 @@
 -   **Retrieval-Augmented Generation (RAG)** for accurate, source-backed answers
 -   **FAISS Vector Database** for semantic search across university documents
 -   **Flan-T5 Language Model** for natural language understanding and generation
--   **Modern Futuristic UI** with glassmorphism and neon effects
+-   **Modern Futuristic UI** with glass-morphism and neon effects
 -   **Dynamic FAQ System** with category-based browsing
 
 Users can:
@@ -49,12 +49,11 @@ The app uses **RAG architecture** to retrieve relevant information from indexed 
     -   📚 Registration & Enrollment
     -   💰 Financial Aid & Tuition
     -   🏫 Campus Life
--   Click to populate text box, edit, then submit
 
 ### 🎨 **Futuristic Modern UI**
 
 -   Animated gradient background
--   Glassmorphic containers with blur effects
+-   Glass-morphic containers with blur effects
 -   Neon-styled chat bubbles
 -   Smooth animations and transitions
 -   Cyberpunk-inspired color scheme (cyan, purple, pink)
@@ -640,7 +639,7 @@ This tool is for **educational and informational purposes** only. It is not a re
 
 ## 👤 Author
 
-**Kaisar Hossain**  
+**Mohammed Golam Kaisar Hossain Bhuyan**  
 GitHub: [https://kaisarhossain.github.io/portfolio/]
 LinkedIn: [https://www.linkedin.com/in/kaisarhossain/]
 Email: kaisar.hossain@gmail.com
