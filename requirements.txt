@@ -1,0 +1,29 @@
+# Cardinal Assist - Python Dependencies
+# Install with: pip install -r requirements.txt
+
+# Streamlit framework
+streamlit==1.31.0
+
+# Machine Learning & NLP
+sentence-transformers==2.3.1
+transformers==4.36.2
+torch==2.1.2
+accelerate==0.25.0
+
+# Vector Search
+faiss-cpu==1.7.4
+
+# Data Processing
+numpy==1.24.3
+pandas==2.0.3
+
+# Image Processing (for logo and background)
+Pillow==10.2.0
+
+# Optional: For better performance
+# tokenizers==0.15.0
+# sentencepiece==0.1.99
+
+# Optional: For deployment
+# gunicorn==21.2.0  # For production deployment
+# watchdog==3.0.0   # For auto-reload in development
